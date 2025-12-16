@@ -209,7 +209,7 @@ HEX: #CAEBFA, #07B47C, #83C79B
 ### 4. Завдання 
 4. Аналіз контрасту (Accessibility Tools)
 
-![Скріншот з результатом завдання](./images/Accessibility Tools.jpg)
+![Скріншот з результатом завдання](./images/AccessibilityTools.jpg)
 
 
 Пара кольорів:
